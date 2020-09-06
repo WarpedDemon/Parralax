@@ -26,18 +26,18 @@
     <title> Parralax is cool! </title>
   </head>
   <body>
-    <div class="parallax"></div>
+    <div class="parallax img0"></div>
 
-    <div class="parallax1"></div>
+    <div class="parallax img1"></div>
 
-    <div class="parallax2"></div>
+    <div class="parallax img2"></div>
 
-    <div class="parallax3"></div>
+    <div class="parallax img3"></div>
 
-    <div class="parallax4"></div>
+    <div class="parallax img4"></div>
 
-    <div class="parallax5"></div>
+    <div class="parallax img5"></div>
 
-    <div class="parallax6"></div>    
+    <div class="parallax img6"></div>
   </body>
 </html>

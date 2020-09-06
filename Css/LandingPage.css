@@ -10,6 +10,7 @@ body { background-color: 	#FFFAFA; }
   min-height: 1000px;
 
   /* Create the parallax scrolling effect */
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -23,6 +24,7 @@ body { background-color: 	#FFFAFA; }
   min-height: 1000px;
 
   /* Create the parallax scrolling effect */
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

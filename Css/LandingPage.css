@@ -30,6 +30,76 @@ body { background-color: 	#FFFAFA; }
   background-size: cover;
 }
 
+.parallax2{
+  /* The image used */
+  background-image: url("https://parralaxissocool.herokuapp.com/img/101_idea2.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax3{
+  /* The image used */
+  background-image: url("https://parralaxissocool.herokuapp.com/img/101_idea2.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax4{
+  /* The image used */
+  background-image: url("https://parralaxissocool.herokuapp.com/img/101_idea2.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax5{
+  /* The image used */
+  background-image: url("https://parralaxissocool.herokuapp.com/img/101_idea2.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax6{
+  /* The image used */
+  background-image: url("https://parralaxissocool.herokuapp.com/img/101_idea2.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .LightSwitchClass span {
   margin-top: 18px;
   margin-left: 19px;

@@ -7,7 +7,7 @@ body { background-color: 	#FFFAFA; }
   background-image: url("https://parralaxissocool.herokuapp.com/img/101_idea1.jpg");
 
   /* Set a specific height */
-  min-height: 500px;
+  min-height: 1000px;
 
   /* Create the parallax scrolling effect */
   background-position: center;

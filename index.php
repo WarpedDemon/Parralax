@@ -8,7 +8,7 @@
     <meta name="description" content="Author: J.N. Author, Length: 1 pages">
     <meta name="keywords" content="HTML, CSS, XML, JavaScript, Php, James">
     <meta name="author" content="James Nicholas Noonan">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="type" content="website">
     <meta property="site_name" content="mercinna">
 

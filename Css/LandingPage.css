@@ -43,6 +43,16 @@ body { background-color: 	#FFFAFA; }
   background-image: url("https://parralaxissocool.herokuapp.com/img/101_idea6.jpg");
 }
 
+.img7{
+  /* The image used */
+  background-image: url("https://parralaxissocool.herokuapp.com/img/101_idea7.jpg");
+}
+
+.img8{
+  /* The image used */
+  background-image: url("https://parralaxissocool.herokuapp.com/img/101_idea8.jpg");
+}
+
 .LightSwitchClass span {
   margin-top: 18px;
   margin-left: 19px;

@@ -26,8 +26,6 @@
     <title> Parralax is cool! </title>
   </head>
   <body>
-    <div class="parallax img0"></div>
-
     <div class="parallax img1"></div>
 
     <div class="parallax img2"></div>
@@ -39,5 +37,9 @@
     <div class="parallax img5"></div>
 
     <div class="parallax img6"></div>
+
+    <div class="parallax img7"></div>
+
+    <div class="parallax img8"></div>
   </body>
 </html>

@@ -1,6 +1,18 @@
 * { padding: 0; margin: 0;  font-family: helvetica, sans-serif;}
 html { overflow-x: hidden;}
 body { background-color: 	#FFFAFA; }
+
+.parralax{
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .LightSwitchClass span {
   margin-top: 18px;
   margin-left: 19px;

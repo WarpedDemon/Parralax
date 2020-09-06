@@ -23,9 +23,17 @@
     <script src="Js/wow.min.js"></script>
     <script src="Js/jquery-ui.min.js"></script>
 
-    <title> Save the kids ! </title>
+    <title> Parralax is cool! </title>
   </head>
   <body>
-    <img src="../img/bestprojectever.jpg" style="width:100%; height:100%; display: block; margin-left: auto; margin-right: auto;"></img>
+    <p>Scroll Up and Down this page to see the parallax scrolling effect.</p>
+
+    <img class="parralax" src="../img/101_idea1.jpg"></img>
+
+    <div style="height:1000px;background-color:red;font-size:36px">
+    Scroll Up and Down this page to see the parallax scrolling effect.
+    This div is just here to enable scrolling.
+    Tip: Try to remove the background-attachment property to remove the scrolling effect.
+    </div>
   </body>
 </html>

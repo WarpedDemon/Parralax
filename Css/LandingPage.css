@@ -15,6 +15,19 @@ body { background-color: 	#FFFAFA; }
   background-size: cover;
 }
 
+.parallax{
+  /* The image used */
+  background-image: url("https://parralaxissocool.herokuapp.com/img/101_idea2.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .LightSwitchClass span {
   margin-top: 18px;
   margin-left: 19px;

@@ -26,10 +26,8 @@
     <title> Parralax is cool! </title>
   </head>
   <body>
-    <p>Scroll Up and Down this page to see the parallax scrolling effect.</p>
-
     <div class="parallax"></div>
 
-    <div class="parallax"></div>
+    <div class="parallax1"></div>
   </body>
 </html>

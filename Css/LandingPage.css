@@ -3,6 +3,9 @@ html { overflow-x: hidden;}
 body { background-color: 	#FFFAFA; }
 
 .parralax{
+  /* The image used */
+  background-image: url("101_idea1.jpg");
+
   /* Set a specific height */
   min-height: 500px;
 

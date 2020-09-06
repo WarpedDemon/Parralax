@@ -28,7 +28,7 @@
   <body>
     <p>Scroll Up and Down this page to see the parallax scrolling effect.</p>
 
-    <img class="parralax" src="../img/101_idea1.jpg"></img>
+    <div class="parallax"></div>
 
     <div style="height:1000px;background-color:red;font-size:36px">
     Scroll Up and Down this page to see the parallax scrolling effect.

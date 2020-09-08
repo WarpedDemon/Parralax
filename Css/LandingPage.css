@@ -4,7 +4,8 @@ body { background-color: 	#FFFAFA; }
 
 .parallax{
   /* Set a specific height */
-  min-height: 1000px;
+  /*min-height: 1000px;*/
+  min-height: 100vh;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -51,6 +52,11 @@ body { background-color: 	#FFFAFA; }
 .img8{
   /* The image used */
   background-image: url("https://parralaxissocool.herokuapp.com/img/101_idea8.jpg");
+}
+
+.img8{
+  /* The image used */
+  background-image: url("https://parralaxissocool.herokuapp.com/img/101_idea9.jpg");
 }
 
 .LightSwitchClass span {

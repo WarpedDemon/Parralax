@@ -41,5 +41,7 @@
     <div class="parallax img7"></div>
 
     <div class="parallax img8"></div>
+
+    <div class="parallax img9"></div>
   </body>
 </html>

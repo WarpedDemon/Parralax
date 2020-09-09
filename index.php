@@ -44,7 +44,7 @@
 
     <div class="parallax img9"></div>
 
-    <video class="parallax" controls>
+    <video class="parallax video" controls>
       <source src="https://parralaxissocool.herokuapp.com/video/101_idea_globe.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
